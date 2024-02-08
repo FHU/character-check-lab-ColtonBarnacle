@@ -14,6 +14,7 @@ def check_character(word, index):
 
 
 if __name__ == '__main__': 
+    #run tests LR
     print(check_character('happy birthday', 2))
     print(check_character('happy birthday', 5))
     print(check_character('happy birthday 2 you', 15))
